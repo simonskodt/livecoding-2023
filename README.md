@@ -1,4 +1,4 @@
-![Live Coding 2023](img\header.png)
+![Live Coding 2023](img/header.png)
 
 Welcome to the Live Coding 2023 repository!
 
