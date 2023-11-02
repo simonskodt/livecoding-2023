@@ -1,0 +1,98 @@
+001, Vesuvio, 72
+002, Hawaii, 76
+003, Capriccioso, 76
+004, Pollo, 80
+005, Italiano, 76
+006, Vegetar, 82
+007, Calzone, 77
+008, Amerikana, 76
+009, Etna, 76
+010, Elias, 76
+012, Margharita, 69
+013, Matador, 88
+014, Forte, 88
+016, Mervan, 78
+017, Emil, 72
+018, Meditererraneo, 92
+020, Parma, 92
+021, Mervan, 86
+022, Dal Mare, 80
+023, Mamma Rosa, 87
+024, Milas, 99
+025, Amager Favorit, 97
+026, Formaggi, 87
+027, Aamager, 87
+028, Julios Speciel, 99
+029, La Pizza Insalata, 86
+030, Forno, 91
+031, Sundholm, 82
+032, Beri, 79
+035, Kartofler, 82
+037, Milano, 80
+038, Vicenza, 90
+040, Evinda, 95
+041, Bresaola, 101
+042a, Lavecchia, 88
+042c, Lacitta, 94
+042d, Spinat Pizza, 79
+101, Ibo boy, 92
+045, Spaghetti Bolognese, 75
+046, Spaghetti Carbonara, 85
+047, Lasagne, 85
+048, Fettucini, 85
+049, Fettuccine Vegetariana, 85
+050, Ravioli Filetto DI Manzo, 101
+051, Ravioli Julios, 101
+052, Ravioli Angelio, 105
+053, Makaroni Parma Penne, 95
+055, La Karbonat, 90
+056, Fettuccine Alcaknuri, 100
+057, Spagetti Vegetariano, 95
+058, Varm Sandwich, 69
+059, Special Sandwich Kødstrimler, 64
+060, Special Sandwich Kylling, 64
+066, Hjemmelavet durum, 96
+067, Pitabrød, 58
+068, Børne Pizza, 59
+070, Børne Chicken Nuggets, 59
+071, Rødspættefilet, 59
+072, Klassisk Okseburger, 63
+073, Cheese Okseburger, 66
+074, Barbeque Okseburger, 65
+075, Bacon Okseburger, 66
+076, Gedeost Okse, 66
+077, Chicken Burger, 61
+081, Juli's Bøf (stærk), 98
+082, Chicken Dipper, 88
+083, Hot Wings, 88
+085, Pommes Frites, 44
+086, Rødspættefilet, 89
+087, Kebabret, 105
+088, Kyllingeret, 105
+089, Insalata salat, 51
+091, Chili Cheese Nuggets, 42
+092, Forårsrulle, 42
+093, Hvidløgsbrød, 45
+102, La Vecchia, 90
+103, Bellisimo, 90
+104, La Fiorta, 90
+105, Primavera, 90
+106, Velentino, 90
+148, Vegansk Salat Pizza, 103
+149, Vegansk Italiano, 89
+150, Vegansk Margharita, 89
+151, Vegansk Vegetar, 103
+152, Vegansk Kebab, 103
+153, Vegansk Kylling, 103
+154, Vegansk Chorizo, 103
+155, Vegansk Durum, 73
+156, Vegansk Fuldkornssandwich, 73
+159, Vegansk Pitabrød, 63
+161, Spaghetti, 89
+170, Bagt kartoffel m. creme fraiche, 50
+171, Bagt kartoffel m. kylling & bacon, 65
+172, Bagt kartoffel m. skinke og rødløg, 60
+173, Bagt kartoffel m. tunfisk og citron, 60
+177, Inca, 88
+178, Azteca, 88
+179, Acapulco, 88
